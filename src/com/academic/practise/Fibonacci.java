@@ -1,7 +1,8 @@
 package com.academic.practise;
 
+//Fibonacci using iterative approach
 public class Fibonacci {
-
+	// Logic for Fibonacci Series
 	static void fibb(int n) {
 		int start = 0, second = 1;
 		int counter = 0;
